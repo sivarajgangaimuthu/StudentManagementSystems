@@ -30,3 +30,5 @@ src/
  ├─ Student.java
 students.txt   (auto created after running)
 
+1️⃣ Clone the repository  
+
